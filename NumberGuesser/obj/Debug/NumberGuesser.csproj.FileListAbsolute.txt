@@ -1,0 +1,14 @@
+C:\Users\Yann\Documents\webexp\VSProjects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Yann\Documents\webexp\VSProjects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Yann\Documents\webexp\VSProjects\NumberGuesser\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Yann\Documents\webexp\VSProjects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Yann\Documents\webexp\VSProjects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Yann\Documents\webexp\VSProjects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Yann\Documents\webexp\VSProjects\NumberGuesser\NumberGuesser\obj\Debug\NumberGuesser.pdb
+C:\Users\Yann\Documents\webexp\VSProjects\Traversy-C--Project\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+C:\Users\Yann\Documents\webexp\VSProjects\Traversy-C--Project\NumberGuesser\bin\Debug\NumberGuesser.exe
+C:\Users\Yann\Documents\webexp\VSProjects\Traversy-C--Project\NumberGuesser\bin\Debug\NumberGuesser.pdb
+C:\Users\Yann\Documents\webexp\VSProjects\Traversy-C--Project\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+C:\Users\Yann\Documents\webexp\VSProjects\Traversy-C--Project\NumberGuesser\obj\Debug\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\Yann\Documents\webexp\VSProjects\Traversy-C--Project\NumberGuesser\obj\Debug\NumberGuesser.exe
+C:\Users\Yann\Documents\webexp\VSProjects\Traversy-C--Project\NumberGuesser\obj\Debug\NumberGuesser.pdb
